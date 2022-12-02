@@ -1,23 +1,16 @@
-# Lab-web-final
+# Proyecto final en [santitesis.com](http://www.santitesis.com)
+
+Durante las próximas semanas este repositorio se mostrará en este sitio web.
+
+## Correr el proyecto en local
+Instalar dependencias:
+`npm i`
+
+Iniciar la aplicación:`npm start`
 
 
-### `npm start`
+Abrir la GUI de Cypress para ejecutar las pruebas:`npx cypress open`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### Deployment
-
-You can find the working web site [here](http://www.santitesis.com)
-
-### Video
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Video
+En el siguiente [Video](https://drive.google.com/file/d/1bFNHdEVo8CyqY1_gjVRdsFMnUqOlQOb2/view?usp=share_link)
+se encuentra una explicación y demostración del proyecto.
