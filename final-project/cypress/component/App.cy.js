@@ -1,4 +1,4 @@
-import App from "../src/App.js";
+import App from "../../src/App.js";
 
 describe('App.cy.js', () => {
   it('be visible', () => {
@@ -10,6 +10,6 @@ describe('App.cy.js', () => {
   it('edit text', () => {
     cy.viewport(1920, 1080)
     cy.mount(<App/>)
-    cy.get('input[value*="Puedes editar este texto dando click en el!"]').click().type(" Pong")
+    cy.get('input[value*="Puedes editar este texto dando click en el!"]').click().type(" lorem ipsum")
   })
 })

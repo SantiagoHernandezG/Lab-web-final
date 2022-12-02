@@ -16,8 +16,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### Deployment
 
-You can find the working web site [here](http)
+You can find the working web site [here](http://www.santitesis.com)
 
-### `npm run build` fails to minify
+### Video
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
